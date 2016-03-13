@@ -1,0 +1,17 @@
+head {
+	display: none;
+}
+body {
+    background: #0d1424;
+    background-image:  url("img/img5.jpg");
+    background-size: 2400px 2525px;
+    background-position: center;
+    display: block;
+    background-repeat: no-repeat;
+    font: .81em/150% Arial, Helvetica, sans-serif;
+	color: #666;
+}
+
+
+
+
